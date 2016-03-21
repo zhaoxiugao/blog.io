@@ -12,4 +12,4 @@ The lxml and openSSL is necessary for windows platform too.
 
 refer to
 
-![](http://doc.scrapy.org/en/0.20/intro/install.html)
+http://doc.scrapy.org/en/0.20/intro/install.html
